@@ -1,9 +1,21 @@
-*{
+body{
 	color: #395E8B;
-	font-weight: bold;
-	text-align: center;
+	background-image: url(dhickeyinvite.jpg);
+	background-repeat: no-repeat;
 }
 
-body {
-	background-image: url("dhickeyinvite.jpg")
+p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.address {
+	text-align: center;
+	font-weight: bold;
+}
+
+.rsvp {
+	font-size: smaller;
+	text-align: center;
+	font-weight: bold;
 }
