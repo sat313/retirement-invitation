@@ -1,21 +1,10 @@
-body{
-	color: #395E8B;
-	background-image: url(dhickeyinvite.jpg);
-	background-repeat: no-repeat;
+.grid {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
-	text-align: center;
-	font-weight: bold;
-}
-
-.address {
-	text-align: center;
-	font-weight: bold;
-}
-
-.rsvp {
-	font-size: smaller;
-	text-align: center;
-	font-weight: bold;
+    text-align: center;
+    font-style: italic;
 }
